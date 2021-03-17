@@ -1,0 +1,252 @@
+.tbl_all_collections{
+    width:100%;
+    padding: 10px;
+}
+
+.admin_product{
+    margin-top: 40px;
+}
+
+.tbl_all_collections h1{
+    font-weight: bold;
+    margin-bottom:30px;
+    text-align: center;
+    color:black;
+}
+
+.UsersNo{
+    background-color:black;
+    color:white;
+    padding: 10px;
+    width:fit-content;
+    border-radius:30px
+}
+
+.admin_my_panel{
+    padding-bottom: 70px;
+}
+
+.all-user-1{
+    background-color:rgb(0, 0, 0);
+    color:white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+.all-user-2-3{
+    border-radius: 30px;
+    padding: 10px;
+    width:50%;
+    color:rgb(0, 0, 0);
+    background-color:rgb(0, 255, 0);
+}
+
+.all-user-2-2{
+    border-radius: 30px;
+    padding: 10px;
+    width:50%;
+    color:white;
+    background-color:rgb(255, 0, 0);
+}
+.all-user-2-2 span{
+    float: right;
+    }
+
+.all-orders-details{
+    background-color:black;
+    padding: 10px;
+    color: white;
+}
+
+.all-orders-details span{
+float: right;
+}
+.update-order{
+    margin: 10px;
+    background-color:black;
+    padding: 30px;
+    color: white;
+    border-radius:15px;
+}
+
+.price-sorting-2{
+    background-color:black;
+    color: white;
+}
+
+
+.subscribers_email{
+    text-align: center;
+    background-color:black;
+    color: white;
+}
+
+.price-sorting-1{
+    background-color:black;
+    color: white;
+}
+
+.update-order label{
+    margin-top: 10px;
+}
+.update-order .btn-success{
+    margin-top:10px;
+    background-color:green;
+}
+.all-orders-panel{
+    margin-top:10px;
+}
+
+
+.all-user-2-3 span{
+    float: right;
+    }
+
+
+
+.all-user{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+
+.all-user-1 span{
+    float: right;
+}
+
+
+
+.btn_available{
+margin-top:30px;
+    float: left;
+    background-color:gold;
+    color:black;
+
+}
+
+.details_panel span{
+float: right;
+}
+
+.order_details{
+    margin-top:10px;
+}
+
+.btn-cancel{
+    background-color:red;
+}
+
+.btn-add-to-cart{
+    background-color:rgb(146, 124, 0);
+}
+
+.order_img{
+    width: 300px;;
+    margin: 10px;
+    height: 300px;
+}
+
+.btn_edit{
+    margin-top:30px;
+    float: right;
+    background-color:gold;
+    color:black;
+}
+
+@media screen and (max-width: 890px){
+    .btn_edit{
+        margin-top:15px;
+    }
+}
+
+.tbl_all_collections p{
+    width: 70%;
+   margin: auto;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.tbl_all_collections span{
+    float: right;
+}
+
+.admin_product_name{
+    color: gold;
+    font-weight: bold;
+}
+
+.details_panel{
+    margin: 30px;
+   
+}
+.admin_details_panel{
+    width:100%;
+    margin-top:10px;
+    background-color:black;
+
+
+}
+.details_img{
+    width:50%;
+    height: 300px;
+    border-radius:29px;
+    margin-bottom: 10px;
+    margin-top:10px;
+}
+.details_panel{
+    position:absolute;
+    top:0;
+    right:0;
+    width:40%;
+    color:white;
+}
+
+.tab_panel{
+    background-color: white;
+    padding: 10px;
+    color:black;
+}
+
+.admin_filters{
+    background-color: black;
+    color:white;
+    padding: 10px;
+    text-align: center;
+    margin-top: 40px;
+    border-radius: 30px;
+    position: absolute;
+    right:10%;
+    width:20%;
+}
+
+
+@media screen and (max-width: 900px){
+    .admin_filters{
+        position: static;
+        width:100%;
+        right:0;
+    }
+}
+
+.admin_filters ul li{
+    text-decoration: none;
+    color:blue;
+    font-weight: bold;
+    list-style: none;
+}
+
+
+.user_product_details .btn{
+    display:inline;
+  }
+
+
+  .price_input{
+    width:70px;
+    background-color:black;
+    color: white;
+    }
+
+    .user_product_details{
+        padding-bottom: 50px;
+    }
